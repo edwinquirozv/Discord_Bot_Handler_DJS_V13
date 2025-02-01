@@ -13,4 +13,4 @@ Bot de Discord listo para usarse
 ## 👑 Creditos
 
 Si vas a utilizar este bot asegurate de dar creditos a:
-[VenQui#6625](https://discord.com/users/447843518954602526) & [WadeSlider#0123](https://discord.com/users/873940469950849056)
+[VenQui](https://discord.com/users/447843518954602526) 
